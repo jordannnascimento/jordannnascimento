@@ -1,7 +1,7 @@
 # Hi, I'm Jordann 👋  
 
 I'm a Graphic Designer expanding my skill set with programming,  
-not to transition careers — but to become a more complete, modern and versatile designer.
+not to transition careers, but to become a more complete, modern and versatile designer.
 
 I believe the future of design blends:  
 🎨 Creativity  
@@ -26,7 +26,7 @@ So I'm actively learning Python, HTML, CSS and JavaScript to build better, more 
 ### Mystery Word Game  
 
 A mini word-guessing game originally built in Python and later adapted into a browser version using HTML, CSS and JavaScript.  
-A tribute to Linkin Park — a band that inspires both my creativity and my personal journey.
+A tribute to Linkin Park, a band that inspires both my creativity and my personal journey.
 
 🔗 Play the game:  
 https://jordannnascimento.github.io/word-game/
